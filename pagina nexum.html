@@ -1,7 +1,7 @@
  <br>
 
 
-<!DOCTYPE html>
+
 <html>
 <head>
 	<title>Fondo animado oscuro</title>
